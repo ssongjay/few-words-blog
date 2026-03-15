@@ -1,8 +1,13 @@
 baseURL = 'https://ssongjay.github.io/blog/'
 languageCode = 'ko-kr'
-title = 'InJe Blog'
+title = 'few-words'
 theme = 'PaperMod'
 
 [params]
   ShowReadingTime = true
   ShowCodeCopyButtons = true
+  description = '오래 다시 보지 않기 위한 몇 개의 단어들'
+
+[params.homeInfoParams]
+  Title = 'few-words'
+  Content = '오래 다시 보지 않기 위한 몇 개의 단어들'
