@@ -1,6 +1,6 @@
 baseURL = 'https://ssongjay.github.io/few-words-blog/'
 languageCode = 'ko-kr'
-title = 'few words'
+title = 'a few words'
 theme = 'PaperMod'
 
 [params]
@@ -9,5 +9,5 @@ theme = 'PaperMod'
   description = '오래 다시 보지 않기 위한 몇 개의 단어들'
 
 [params.homeInfoParams]
-  Title = 'few words'
+  Title = 'a few words'
   Content = '오래 다시 보지 않기 위한 몇 개의 단어들'
