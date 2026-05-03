@@ -1,7 +1,7 @@
 +++
 title = "Sandbox 환경? (2) Codex와 Claude Code 옵션편"
 date = 2026-04-03T18:20:00+09:00
-draft = true
+draft = false
 +++
 
 이전 글에서 샌드박스가 뭔지, 왜 필요한지, OS 레벨에서는 어떻게 구현되는지 먼저 정리했다.
